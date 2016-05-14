@@ -15,9 +15,12 @@
  */
  body {
    padding-top: 60px;
-   font: 2em "Open Sans", sans-serif;
+   font: 2em "Open Sans", Arial;
+   color: pink;
  }
 
  footer { margin-top: 100px; }
  table, td, th { vertical-align: middle; border: none; }
  th { border-bottom: 1px solid #DDD; }
+
+ #appname { color: pink }
